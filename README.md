@@ -4,7 +4,7 @@
 
 *What is this repository?*
 
-####Intro to this repo
+###Intro to this repo
 
 This repo contains my (MielleM) experimentation with GitHub and R markdown for formatting files and exploring data in the [STAT 454](http://stat545.com) course.
 
