@@ -2,16 +2,16 @@
 2. *How do I navigate this repository?*
 3. *Who are you, anyway?*
 
-*What is this repository?*
-### 1.Intro to this repo
+#### 1. Intro to this repo
 
 This repo contains my (MielleM) experimentation with GitHub and R markdown for formatting files and exploring data in the [STAT 454](http://stat545.com) course.
 
 
 
-###How do I navigate this repository?
 
-#### 2. How to navigate this repo
+#### 2. Repo roadmap 
+
+:globe_with_meridians:
 
 File | Description  
 ------------|------------ 
@@ -22,9 +22,10 @@ hw01_gapminder.md | the same as above, but just a .md
 
 
 
-###Who are you, anyway?
 
-####A bit about myself
+#### 3. A bit about myself
+
+:earth_americas:
 
 I'm a MSc student in the department of Geography, using GIS to address issues in environmental health. 
 In this course, I'm hoping to explore the capabilities of R for geographic data visualization and spatial analysis. 
