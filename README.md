@@ -1,5 +1,9 @@
+1. *What is this repository?*
+2. *How do I navigate this repository?*
+3. *Who are you, anyway?*
+
 *What is this repository?*
-### Intro to this repo
+### 1.Intro to this repo
 
 This repo contains my (MielleM) experimentation with GitHub and R markdown for formatting files and exploring data in the [STAT 454](http://stat545.com) course.
 
@@ -7,7 +11,7 @@ This repo contains my (MielleM) experimentation with GitHub and R markdown for f
 
 ###How do I navigate this repository?
 
-####How to navigate this repo
+#### 2. How to navigate this repo
 
 File | Description  
 ------------|------------ 
