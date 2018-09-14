@@ -2,7 +2,7 @@
 2. How do I navigate this repository?
 3. Who are you, anyway? 
 
-###*What is this repository?*
+*What is this repository?*
 
 ####Intro to this repo
 
