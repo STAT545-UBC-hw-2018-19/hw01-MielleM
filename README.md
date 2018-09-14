@@ -3,13 +3,15 @@
 3. Who are you, anyway? 
 
 ###*What is this repository?*
+
 ####Intro to this repo
 
 This repo contains my (MielleM) experimentation with GitHub and R markdown for formatting files and exploring data in the [STAT 454](http://stat545.com) course.
 
 
 
-###*How do I navigate this repository?*
+###How do I navigate this repository?
+
 ####How to navigate this repo
 
 File | Description  
@@ -21,7 +23,8 @@ hw01_gapminder.md | the same as above, but just a .md
 
 
 
-###*Who are you, anyway?*
+###Who are you, anyway?
+
 ####A bit about myself
 
 I'm a MSc student in the department of Geography, using GIS to address issues in environmental health. 
