@@ -11,7 +11,7 @@ This repo contains my (MielleM) experimentation with GitHub and R markdown for f
 
 #### 2. Repo roadmap 
 
-:globe_with_meridians:
+:earth_americas: :globe_with_meridians:
 
 File | Description  
 ------------|------------ 
@@ -25,11 +25,10 @@ hw01_gapminder.md | the same as above, but just a .md
 
 #### 3. A bit about myself
 
-:earth_americas:
 
 I'm a MSc student in the department of Geography, using GIS to address issues in environmental health. 
 In this course, I'm hoping to explore the capabilities of R for geographic data visualization and spatial analysis. 
 
 
-@MielleM if you like maps or want to talk about data viz!
+[@MielleM](https://github.com/MielleM) if you like maps or want to talk about data viz!
 
