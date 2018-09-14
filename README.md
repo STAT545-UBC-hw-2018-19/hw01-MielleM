@@ -15,9 +15,9 @@ This repo contains my (MielleM) experimentation with GitHub and R markdown for f
 File | Description  
 ------------|------------ 
 README | An intro to this repo and its author. Start here.
-hw01_gapminder.Rmd | data exploration using R Markdown.
-hw01_gapminder.md | the same as above, but just a .md
-
+01_quakedata.Rmd | data exploration using R Markdown.
+01_quakedata.md | the same as above, but just a .md
+01_quakedata_files/figure-markdown_github | folder with .png images of graphs generated in quakedata
 
 
 
