@@ -30,7 +30,7 @@ summary(dat)
 
 ### Visualization
 
-######Often, a visual analysis is more helpful than raw data alone. 
+#####Often, a visual analysis is more helpful than raw data alone. 
 
 Visualize earthquake magnitude with a boxplot. This is the same values as the summary table above, but represented visually.
 
